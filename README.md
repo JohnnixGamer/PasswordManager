@@ -7,8 +7,8 @@ en los navegadores como el chrome)
 
 ¡Queremos seguridad y protección!
 
-[i] ¡Estamos ofreciendo cursos gratuitos de ciberseguridad y hacking ético! | t.me/JohnnixGamer |
+[ i ] ¡Estamos ofreciendo cursos gratuitos de ciberseguridad y hacking ético! | t.me/JohnnixGamer |
 
-[·] ¡Aprenda a defenderse, cuidarse y proteger su privacidad en el mundo avanzado de la tegnología a diario!
+[ · ] ¡Aprenda a defenderse, cuidarse y proteger su privacidad en el mundo avanzado de la tegnología a diario!
 
-[i] El archivo o script fue diseñado principalmente para el sistema operativo Windows
+[ i ] El archivo o script fue diseñado principalmente para el sistema operativo Windows
